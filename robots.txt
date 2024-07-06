@@ -1,0 +1,5 @@
+//Copyright Open Trade Technology Ltd. 2023. All rights reserved.
+
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
